@@ -55,3 +55,53 @@ nav a {
     font-size: 18px;
     text-decoration: none;
 }
+
+/* Hero Section Styles */
+.hero {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 100px;
+    align-items: center;   
+}
+
+.hero-content {
+    width: 250px;   
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin: 0;
+}
+
+.hero-content p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-content button {
+    background-color: #3882F6;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.hero-image {
+    width: 500px;
+    height: 250px;
+    background-color: #6B7280;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-image p {
+    color: white;
+}
+
