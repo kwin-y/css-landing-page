@@ -1,0 +1,36 @@
+The Odin Project - CSS Foundations and Flexbox: Project: Landing Page
+
+-- This is an entire web page created from a design provided by the Odin Project.
+-- Where these are applied:
+ 
+- Font: Roboto
+- Dark background color (header, hero section and footer): #1F2937
+- Logo text:
+	Font size: 24px
+	Color: #F9FAF8
+
+- Hero section main text (“This website is awesome”):
+	Font size: 48px
+	Color: #F9FAF8
+	Weight: 900
+
+- Hero secondary text (“This website has some subtext…”) and header links:
+	Font size: 18px
+	Color: #E5E7EB
+
+- Button and “Call to action” background color: #3882F6
+- Information heading:
+	Font size: 36px
+	Color: #1F2937
+	Weight: 900
+
+- Quote:
+	Background color: #E5E7EB
+	Font size: 36px
+	Color: #1F2937
+	Weight: 300
+	Font style: italic
+
+-- Files Included
+- index.html
+- style.css
